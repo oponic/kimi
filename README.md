@@ -5,5 +5,5 @@ Maybe don't
 ## Planned features
 - [ ] Password management
 - [ ] Authentication method
-- [ ] Smart Autofil
+- [ ] Smart Autofill
 - [ ] FastLogin
