@@ -4,6 +4,8 @@ Password manager and Authentication method
 Maybe don't
 ## Planned features
 - [ ] Password management
+- [ ] Payment method management
 - [ ] Authentication method
 - [ ] Smart Autofill
-- [ ] FastLogin
+- [ ] Zero Authentication
+- [ ] Single Consent
